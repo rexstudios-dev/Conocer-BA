@@ -1,8 +1,7 @@
 
-
 # Conocer Buenos Aires
 
-<div style="border-left: 5px solid #0072bb; padding-left: 10px;">
+<div style="border-left: 5px solid #f59e0b; padding-left: 10px;">
 
 <p style="color: #0072bb;">Descubre la magia de Buenos Aires</p>
 
@@ -48,3 +47,4 @@
 </p>
 
 </div>
+
